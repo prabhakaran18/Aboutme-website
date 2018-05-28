@@ -1,0 +1,42 @@
+body {
+    background-image: url("abcd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+}
+.float-left {
+    float: left;
+    margin-left: 40px;
+} 
+.float-right {
+    float: right;
+    margin-right: 40px;
+}
+
+.float-right a{
+    margin-right: 10px;
+}
+
+.float-left a {
+    margin-right: 10px;
+}
+h1 {
+  text-align: center;  
+}
+
+.content-container {
+    width: 800px;
+    margin: auto;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.footer {
+    text-align: center;
+    position: relative;
+    top: 310px;
+}
+
+a {
+    text-decoration: none;
+}
